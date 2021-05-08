@@ -1,6 +1,6 @@
 {
   "name": "simple-location-component",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is a super simple component that will give you country, state and let you write the city",
   "author": "anggar85",
   "license": "MIT",
