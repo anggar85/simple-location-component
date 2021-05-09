@@ -47,6 +47,10 @@ const App = () => {
 export default App
 ```
 
+## Example of component
+![image](https://user-images.githubusercontent.com/63805582/117587912-1d3d2080-b0d5-11eb-9366-30b79ef12492.png)
+
+
 ## License
 
 MIT © [anggar85](https://github.com/anggar85)
